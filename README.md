@@ -18,7 +18,6 @@ Auto contextual memory
 Fetches latest live news, sports, facts, trends
 
 Confidence scoring + fallback answers
-![image-1](image-1.png)
 
 ✅ 3. Document Understanding
 
