@@ -1,0 +1,8 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+.DS_Store
+memory.json

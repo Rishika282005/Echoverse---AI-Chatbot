@@ -1,0 +1,13 @@
+google-generativeai
+serpapi
+flask
+python-dotenv
+pytesseract
+Pillow
+docx2txt
+PyPDF2
+pyttsx3
+requests
+beautifulsoup4
+pymongo
+
